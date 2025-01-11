@@ -55,7 +55,7 @@
   test-data: |
     Логин GitHub = Nadezhda18 Пароль Github = ****
   steps:
-    - Вводим e-mail из тест-даты
+    - Вводим логин из тест-даты
     - Вводим пароль из тест-даты
     - Нажимаем на кнопку submit
   expected-result: |
