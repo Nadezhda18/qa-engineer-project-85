@@ -6,7 +6,9 @@
   prerequisites: |
     Открыта страница регистрации Sign Up
   test-data: |
-    Nickname = Nadya22 Password = password222 email = pochta47@mail.ru
+    Nickname = Nadya22 
+    Password = password222 
+    email = pochta47@mail.ru
   steps:
     - Вводим никнэйм из тест-даты
     - Вводим e-mail из тест-даты
@@ -23,7 +25,8 @@
   prerequisites: |
     Открыта страница регистрации Sign Up
   test-data: |
-    Логин GitHub = Nadezhda18 Пароль Github = ****
+    Логин GitHub = Nadezhda18 
+    Пароль Github = ****
   steps:
     - Переходим на регистрацию через ГитХаб (Sign in with GitHub)
     - Вводим данные из тест-даты
@@ -38,7 +41,9 @@
   prerequisites: |
     Открыта страница регистрации Sign In
   test-data: |
-    Nickname = Nadya22 Password = password222 email = pochta47@mail.ru
+    Nickname = Nadya22 
+    Password = password222 
+    email = pochta47@mail.ru
   steps:
     - Вводим e-mail из тест-даты
     - Вводим пароль из тест-даты
@@ -53,7 +58,8 @@
   prerequisites: |
     Открыта страница регистрации Sign In
   test-data: |
-    Логин GitHub = Nadezhda18 Пароль Github = ****
+    Логин GitHub = Nadezhda18 
+    Пароль Github = ****
   steps:
     - Вводим логин из тест-даты
     - Вводим пароль из тест-даты
